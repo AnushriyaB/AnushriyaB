@@ -1,4 +1,2 @@
-- Hi, I’m Anushriya - or just Anu.
-- I’m interested in Product Design, Creative Coding, Robotics, and LLMs.
-- Work: anushriya.com
-- Fun fact: I love dogs and watching Anime.
+Hi, I’m Anushriya - or just Anu.
+Interested in Product Design, Creative Coding, Robotics, and LLMs.
